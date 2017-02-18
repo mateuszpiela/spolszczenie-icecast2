@@ -1,0 +1,3 @@
+Spolszczenie ICECAST2
+Wszystko z folderu strony_status trzeba przemieœciæ do /etc/icecast2/web
+Wszystko z folderu strony_acp trzeba przemieœciæ do /etc/icecast2/admin
